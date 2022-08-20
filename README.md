@@ -13,5 +13,6 @@ Para ocupar la app debes elegir una moneda **Solo disponibles euro,dólar,yen** 
 
 ##AYUDA: 
 En la parte superior se encuentra una converción de moneda para ayudar a saber el precio correspondiente dependiendo de la moneda de tu pais.
+
 ###End
  GRACIAS por leer y por tu tiempo:
